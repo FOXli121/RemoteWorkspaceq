@@ -1,0 +1,27 @@
+{
+  "group": "all_gems_items",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "2 ",
+    "4 "
+  ],
+  "key": {
+    "0": {
+      "item": "all_gems_items:ruby_gem"
+    },
+    "1": {
+      "item": "all_gems_items:ruby_gem"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "all_gems_items:ruby_hoe",
+    "count": 1
+  }
+}

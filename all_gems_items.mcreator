@@ -1,0 +1,345 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "RubyGem",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_gem"
+    },
+    {
+      "name": "RubyOre",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_ore"
+    },
+    {
+      "name": "RubyOreBlock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_ore_block"
+    },
+    {
+      "name": "RubyOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_ore_block_recipe"
+    },
+    {
+      "name": "RubyBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_block_ore_recipe"
+    },
+    {
+      "name": "RubyPickaxe",
+      "type": "tool",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_pickaxe"
+    },
+    {
+      "name": "RubyAxe",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_axe"
+    },
+    {
+      "name": "RubySword",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_sword"
+    },
+    {
+      "name": "RubyShovel",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_shovel"
+    },
+    {
+      "name": "RubyHoe",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_hoe"
+    },
+    {
+      "name": "RubyPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_pickaxe_recipe"
+    },
+    {
+      "name": "RubyAxeRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_axe_recipe"
+    },
+    {
+      "name": "RubySwordRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_sword_recipe"
+    },
+    {
+      "name": "RubyShovelRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_shovel_recipe"
+    },
+    {
+      "name": "RubyHoeRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_hoe_recipe"
+    },
+    {
+      "name": "Rubyitem",
+      "type": "tab",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubyitem"
+    },
+    {
+      "name": "Rubin",
+      "type": "mob",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubin"
+    },
+    {
+      "name": "ShafirPickaxe",
+      "type": "tool",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shafir_pickaxe"
+    },
+    {
+      "name": "ShafirAxe",
+      "type": "tool",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shafir_axe"
+    },
+    {
+      "name": "ShafirSword",
+      "type": "tool",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shafir_sword"
+    },
+    {
+      "name": "ShafirShovel",
+      "type": "tool",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shafir_shovel"
+    },
+    {
+      "name": "ShafirHoe",
+      "type": "tool",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shafir_hoe"
+    },
+    {
+      "name": "ShafirPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shafir_pickaxe_recipe"
+    },
+    {
+      "name": "ShafirAxeRecipe",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shafir_axe_recipe"
+    },
+    {
+      "name": "ShafirSwordRecipe",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shafir_sword_recipe"
+    },
+    {
+      "name": "ShafirShovelRecipe",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shafir_shovel_recipe"
+    },
+    {
+      "name": "ShafirHoeRecipe",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shafir_hoe_recipe"
+    },
+    {
+      "name": "ShafirGem",
+      "type": "item",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shafir_gem"
+    },
+    {
+      "name": "ShafirOre",
+      "type": "block",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shafir_ore"
+    },
+    {
+      "name": "ShafirOreBlock",
+      "type": "block",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shafir_ore_block"
+    },
+    {
+      "name": "ShafirOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shafir_ore_block_recipe"
+    },
+    {
+      "name": "ShafirBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shafir_block_ore_recipe"
+    },
+    {
+      "name": "Shafiritem",
+      "type": "tab",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shafiritem"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.all_gems_items.ruby_sword": "Ruby Sword",
+      "block.all_gems_items.ruby_ore": "Ruby Ore",
+      "itemGroup.tabshafiritem": "Shafiritem",
+      "item.all_gems_items.ruby_pickaxe": "Ruby Pickaxe",
+      "entity.all_gems_items.rubin": "rubin spider",
+      "item.all_gems_items.shafir_shovel": "Shafir Shovel",
+      "item.all_gems_items.shafir_hoe": "Shafir Hoe",
+      "block.all_gems_items.shafir_ore_block": "Block of Shafir",
+      "item.all_gems_items.ruby_hoe": "Ruby Hoe",
+      "block.all_gems_items.ruby_ore_block": "Block of Ruby",
+      "item.all_gems_items.shafir_pickaxe": "Shafir Pickaxe",
+      "itemGroup.tabrubyitem": "Rubyitem",
+      "item.all_gems_items.rubin": "rubin spider Spawn Egg",
+      "item.all_gems_items.shafir_sword": "Shafir Sword",
+      "item.all_gems_items.ruby_gem": "Ruby",
+      "item.all_gems_items.shafir_gem": "Shafir",
+      "item.all_gems_items.shafir_axe": "Shafir Axe",
+      "block.all_gems_items.shafir_ore": "Shafir Ore",
+      "item.all_gems_items.ruby_shovel": "Ruby Shovel",
+      "item.all_gems_items.ruby_axe": "Ruby Axe"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "all_gems_items",
+    "modName": "all gems items",
+    "version": "1.0.0",
+    "author": "HP, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.allgemsitems",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000432115
+}

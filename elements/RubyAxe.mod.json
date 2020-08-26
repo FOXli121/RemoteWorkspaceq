@@ -1,0 +1,26 @@
+{
+  "_fv": 10,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "shafir_axe",
+    "customModelName": "Normal",
+    "name": "Ruby Axe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 10,
+    "efficiency": 17.0,
+    "attackSpeed": 1.0,
+    "enchantability": 6,
+    "damageVsEntity": 5.0,
+    "usageCount": 2380,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

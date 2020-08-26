@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "all_gems_items:blocks/blok_shafiru",
+    "particle": "all_gems_items:blocks/blok_shafiru"
+  }
+}

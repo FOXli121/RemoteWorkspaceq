@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "all_gems_items:items/ruby_hoee1"
+  }
+}
